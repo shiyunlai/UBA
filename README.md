@@ -15,7 +15,7 @@ UBA is short for Univeral Business Architecture，
 1、在本地clone仓库：git clone http://github.com/shiyunlai/UBA.git
    此时会在本地建立UBA目录。
    
-2、以UBA为工作空间启动eclipse。
+2、以UBA目录为工作空间启动eclipse。
 
 3、通过Import --> Maven --> Existing Maven Projects 逐个导入这些项目。
    （注：需要自己安装eclipse的Maven插件）
