@@ -1,1 +1,5 @@
 /.metadata
+/org.yunlai.uba.core/target/*.jar
+/org.yunlai.uba.core/target/*
+/org.yunlai.uba.utils/target/*
+/org.yunlai.uba.utils/target/*.jar
