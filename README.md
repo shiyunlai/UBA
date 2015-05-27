@@ -9,3 +9,13 @@ UBA is short for Univeral Business Architecture，
 通过Git进行版本控制，利于分支开发，多版本建立。
 
 可直接在此基础之上扩展、重构使之成为某个业务需求的技术方案。
+
+如何参与开发：
+
+1、在本地clone仓库：git clone http://github.com/shiyunlai/UBA.git
+   此时会在本地建立UBA目录。
+   
+2、以UBA为工作空间启动eclipse。
+
+3、通过Import --> Maven --> Existing Maven Projects 逐个导入这些项目。
+   （注：需要自己安装eclipse的Maven插件）
